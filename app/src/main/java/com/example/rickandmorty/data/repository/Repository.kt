@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import com.example.rickandmorty.data.apiService.ApiService
 import com.example.rickandmorty.data.model.characters.BaseResponse
-import com.geeks.rickandmorty.data.model.characters.Character
+import com.example.rickandmorty.data.model.characters.Character
 import com.geeks.rickandmorty.data.model.detailCharacter.DetailModel
 import retrofit2.Call
 import retrofit2.Callback

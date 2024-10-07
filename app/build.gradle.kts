@@ -60,9 +60,18 @@ dependencies {
     implementation("com.squareup.retrofit2:retrofit:2.11.0")
     implementation("com.squareup.retrofit2:converter-gson:2.10.0")
 
+    //OkHttp
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
+
+    //interceptor
+    implementation("com.squareup.okhttp3:logging-interceptor:4.9.3")
+
     //Navigation
     implementation("androidx.navigation:navigation-fragment-ktx:2.8.1")
     implementation("androidx.navigation:navigation-ui-ktx:2.8.1")
+
+    //ExpandableLayout
+    implementation ("com.github.skydoves:expandablelayout:1.0.7")
 
     //Coil
     implementation ("io.coil-kt:coil:2.7.0")

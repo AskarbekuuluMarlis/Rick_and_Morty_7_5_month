@@ -1,6 +1,5 @@
 package com.example.rickandmorty.data.model.characters
 
-import com.geeks.rickandmorty.data.model.characters.Character
 import com.geeks.rickandmorty.data.model.characters.Info
 import com.google.gson.annotations.SerializedName
 

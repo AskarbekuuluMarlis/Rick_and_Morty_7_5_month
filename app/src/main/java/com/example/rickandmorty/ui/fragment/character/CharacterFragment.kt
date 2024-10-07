@@ -10,7 +10,7 @@ import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import com.example.rickandmorty.ui.fragment.character.CharacterViewModel
 import com.example.rickandmorty.ui.fragment.character.OnClick
-import com.geeks.rickandmorty.data.model.characters.Character
+import com.example.rickandmorty.data.model.characters.Character
 import com.geeks.rickandmorty.databinding.FragmentCharacterBinding
 import dagger.hilt.android.AndroidEntryPoint
 

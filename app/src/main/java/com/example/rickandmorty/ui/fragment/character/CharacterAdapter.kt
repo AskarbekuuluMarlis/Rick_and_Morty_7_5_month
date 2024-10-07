@@ -9,7 +9,7 @@ import coil.load
 import com.example.rickandmorty.ui.fragment.character.OnClick
 import com.geeks.rickandmorty.R
 import com.geeks.rickandmorty.databinding.ItemCharacterBinding
-import com.geeks.rickandmorty.data.model.characters.Character
+import com.example.rickandmorty.data.model.characters.Character
 
 class CharacterAdapter(
     private val onItemClick: OnClick
